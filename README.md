@@ -12,7 +12,7 @@ An interactive web-based Sudoku solver built with **Streamlit** and **NumPy**. E
 
 ## 🚀 Demo
 
-Try it live: 
+Try it live: https://sudokusolver-lhw39v9jpenpc9xufrr5eq.streamlit.app/
 
 ---
 
